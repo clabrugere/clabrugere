@@ -5,7 +5,7 @@ Mechanical engineer by background, I not so long ago decided to explore maths ap
 Now, I'm a Data Scientist and ML engineer aspirant that keeps exploring this ever-evolving field.
 
 
-# Projects in this github
+# Projects
 
  - [fastapi-fraud-detection](https://github.com/clabrugere/fastapi-fraud-detection): Fully packaged ML model microservice with training and inference exposed using FastAPI
  - [numpy-basics](https://github.com/clabrugere/numpy-basics): numpy only implementation from scratch of ~10 classical ML algorithms
