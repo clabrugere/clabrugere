@@ -16,4 +16,6 @@ Now, I'm a Data Scientist and ML engineer aspirant that keeps exploring this eve
  - [ecommerce-dash](https://github.com/clabrugere/ecommerce-dash): demo dash application showcasing an operational dashboard applied to e-commerce business
 
 # Social
-<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" width="50" height="50" />
+<a href="https://www.linkedin.com/in/clement-labrugere/">
+<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" width="50" height="50"/>
+</a>
