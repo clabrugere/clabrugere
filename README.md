@@ -6,6 +6,7 @@ Now, I'm a Data Scientist and ML engineer aspirant that keeps exploring this eve
 
 
 # Projects in this github
+
  - [fastapi-fraud-detection](https://github.com/clabrugere/fastapi-fraud-detection): Fully packaged ML model microservice with training and inference exposed using FastAPI
  - [numpy-basics](https://github.com/clabrugere/numpy-basics): numpy only implementation from scratch of ~10 classical ML algorithms
  - [portfolio-balance](https://github.com/clabrugere/portfolio-balance): streamlit application to optimally re-balance a portfolio of securities using a target allocation and accounting for transaction fees
@@ -15,7 +16,13 @@ Now, I'm a Data Scientist and ML engineer aspirant that keeps exploring this eve
  - [streamlit-nav](https://github.com/clabrugere/streamlit-nav): custom streamlit component for multi-pages applications, using react as front-end
  - [ecommerce-dash](https://github.com/clabrugere/ecommerce-dash): demo dash application showcasing an operational dashboard applied to e-commerce business
 
+# Resume
+
+- [English](./resources/CLEMENT%20LABRUGERE%20DS%20-%20en.pdf)
+- [Français](./resources/CLEMENT%20LABRUGERE%20DS%20-%20fr.pdf)
+
 # Social
+
 <a href="https://www.linkedin.com/in/clement-labrugere/">
-<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" width="50" height="50"/>
+<img src="https://github.com/clabrugere/resources/linkedin.png" width="50" height="50"/>
 </a>
