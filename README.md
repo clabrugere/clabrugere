@@ -23,6 +23,4 @@ Now, I'm a Data Scientist and ML engineer aspirant that keeps exploring this eve
 
 # Social
 
-<a href="https://www.linkedin.com/in/clement-labrugere/">
-<img src="https://github.com/clabrugere/resources/linkedin.png" width="50" height="50"/>
-</a>
+[![image](resources/linkedin.png)](https://www.linkedin.com/in/clement-labrugere/)
