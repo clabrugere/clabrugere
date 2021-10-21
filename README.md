@@ -2,7 +2,7 @@
 
 Mechanical engineer by background, I not so long ago decided to explore maths applied to data science, machine learning and computer science.
 
-Now, I'm a Data Scientist and ML engineer aspirant that keeps exploring this ever-evolving field.
+Now, I'm a Data Scientist that tries to keep up exploring this ever-evolving field, and I aspire to master all the components of ML algorithms development, from design to deployment and monitoring in production environments.
 
 
 # Projects
