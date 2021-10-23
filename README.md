@@ -10,19 +10,12 @@ Now, I'm a Data Scientist that tries to keep up exploring this ever-evolving fie
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clabrugere)](https://github.com/clabrugere/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=fastapi-fraud-detection)](https://github.com/clabrugere/fastapi-fraud-detection)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=numpy-basics)](https://github.com/clabrugere/numpy-basics)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=portfolio-balance)](https://github.com/clabrugere/portfolio-balance)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=plant-pathology-classification)](https://github.com/clabrugere/plant-pathology-classification)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=M5-forecasting)](https://github.com/clabrugere/M5-forecasting)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=ecommerce-dash)](https://github.com/clabrugere/ecommerce-dash)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=template-datascience)](https://github.com/clabrugere/template-datascience)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=streamlit-nav)](https://github.com/clabrugere/streamlit-nav)
 
 
@@ -47,4 +40,4 @@ Now, I'm a Data Scientist that tries to keep up exploring this ever-evolving fie
 
 # Social
 
-Find me on [![Linkedin](resources/linkedin.png)](https://www.linkedin.com/in/clement-labrugere/)
+[![Linkedin](resources/linkedin.png)](https://www.linkedin.com/in/clement-labrugere/)
