@@ -7,7 +7,7 @@ Now, I'm a Data Scientist that tries to keep up exploring this ever-evolving fie
 
 # Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clabrugere)](https://github.com/clabrugere/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clabrugere&hide=jupyter%20notebook)](https://github.com/clabrugere/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=fastapi-fraud-detection)](https://github.com/clabrugere/fastapi-fraud-detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=numpy-basics)](https://github.com/clabrugere/numpy-basics)
