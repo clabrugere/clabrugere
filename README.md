@@ -9,6 +9,7 @@ Now, I'm a Data Scientist that tries to keep up exploring this ever-evolving fie
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clabrugere&hide=jupyter%20notebook)](https://github.com/clabrugere/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=dynamic-time-warping)](https://github.com/clabrugere/dynamic-time-warping)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=fastapi-fraud-detection)](https://github.com/clabrugere/fastapi-fraud-detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=numpy-basics)](https://github.com/clabrugere/numpy-basics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=portfolio-balance)](https://github.com/clabrugere/portfolio-balance)
