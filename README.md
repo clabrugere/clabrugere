@@ -12,6 +12,7 @@ Now, I'm a Data Scientist that tries to keep up exploring this ever-evolving fie
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=dynamic-time-warping)](https://github.com/clabrugere/dynamic-time-warping)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=fastapi-fraud-detection)](https://github.com/clabrugere/fastapi-fraud-detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=numpy-basics)](https://github.com/clabrugere/numpy-basics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=web-lazy-rebalance)](https://github.com/clabrugere/web-lazy-rebalance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=portfolio-balance)](https://github.com/clabrugere/portfolio-balance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=plant-pathology-classification)](https://github.com/clabrugere/plant-pathology-classification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=M5-forecasting)](https://github.com/clabrugere/M5-forecasting)
@@ -37,7 +38,6 @@ Now, I'm a Data Scientist that tries to keep up exploring this ever-evolving fie
 # Resume
 
 - [English](./resources/CLEMENT%20LABRUGERE%20DS%20-%20en.pdf)
-- [Français](./resources/CLEMENT%20LABRUGERE%20DS%20-%20fr.pdf)
 
 # Social
 
