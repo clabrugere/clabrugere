@@ -1,9 +1,16 @@
 # Clément Labrugere
 
-Mechanical engineer by background, I not so long ago decided to explore maths applied to data science, machine learning and computer science.
+Mechanical engineer by background, I decided not too long ago to switch and explore maths applied to data science, machine learning and computer science.
 
-Now, I'm a Data Scientist that tries to keep up exploring this ever-evolving field, and I aspire to master all the components of ML algorithms development, from design to deployment and monitoring in production environments.
+I'm a Data Scientist that tries to keep up exploring this ever-evolving field, and I aspire to master all the components of ML algorithms development, from design and implementation to deployment and monitoring in production environments while trying to make my code nice to read, efficient and robust.
 
+# Resume
+
+- [English](./resources/CLEMENT%20LABRUGERE%20DS%20-%20en.pdf)
+
+# Social
+
+[![Linkedin](resources/linkedin.png)](https://www.linkedin.com/in/clement-labrugere/)
 
 # Projects
 
@@ -35,10 +42,4 @@ Now, I'm a Data Scientist that tries to keep up exploring this ever-evolving fie
 ![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
 
-# Resume
 
-- [English](./resources/CLEMENT%20LABRUGERE%20DS%20-%20en.pdf)
-
-# Social
-
-[![Linkedin](resources/linkedin.png)](https://www.linkedin.com/in/clement-labrugere/)
