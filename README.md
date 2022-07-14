@@ -1,8 +1,8 @@
 # Clément Labrugere
 
-Mechanical engineer by background, I decided not too long ago to switch and explore maths applied to data science, machine learning and computer science.
+Passionate Data Scientist with over 4 years of experience in data engineering, machine learning, optimization and programming. I thrive in applying cutting edge technologies to challenging business problems in order to build scalable and robust data driven products.
 
-I'm a Data Scientist that tries to keep up exploring this ever-evolving field, and I aspire to master all the components of ML algorithms development, from design and implementation to deployment and monitoring in production environments while trying to make my code nice to read, efficient and robust.
+I always try to keep up exploring this ever-evolving field as I aspire to master all the components of ML algorithms development, from design and implementation to deployment and monitoring while trying to make my code nice to read, efficient and robust.
 
 # Resume
 
