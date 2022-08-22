@@ -1,6 +1,6 @@
 # Clément Labrugere
 
-Passionate Data Scientist with over 4 years of experience in data engineering, machine learning, optimization and programming. I thrive in applying cutting edge technologies to challenging business problems in order to build scalable and robust data driven products.
+Passionate Data Scientist with over 5 years of experience in data engineering, machine learning, optimization and programming. I thrive in applying cutting edge technologies to challenging business problems in order to build scalable and robust data driven products.
 
 I always try to keep up exploring this ever-evolving field as I aspire to master all the components of ML algorithms development, from design and implementation to deployment and monitoring while trying to make my code nice to read, efficient and robust.
 
