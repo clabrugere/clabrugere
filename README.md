@@ -1,12 +1,6 @@
 # Clément Labrugere
 
-Mechanical engineer by background, I decided not too long ago to switch and explore maths applied to data science, machine learning and computer science.
-
-I'm a Data Scientist that tries to keep up exploring this ever-evolving field, and I aspire to master all the components of ML algorithms development, from design and implementation to deployment and monitoring in production environments while trying to make my code nice to read, efficient and robust.
-
-# Resume
-
-- [English](./resources/CLEMENT%20LABRUGERE%20DS%20-%20en.pdf)
+Data Scientist with 6 years of experience in data engineering, statistical analysis and machine learning, I thrive in applying cutting-edge tech to challenging business problems and build scalable data products leveraging state-of-the-art machine learning.
 
 # Social
 
@@ -16,9 +10,10 @@ I'm a Data Scientist that tries to keep up exploring this ever-evolving field, a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clabrugere&hide=jupyter%20notebook)](https://github.com/clabrugere/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=dynamic-time-warping)](https://github.com/clabrugere/dynamic-time-warping)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=pytorch-scarf)](https://github.com/clabrugere/pytorch-scarf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=fastapi-fraud-detection)](https://github.com/clabrugere/fastapi-fraud-detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=numpy-basics)](https://github.com/clabrugere/numpy-basics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=dynamic-time-warping)](https://github.com/clabrugere/dynamic-time-warping)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=web-lazy-rebalance)](https://github.com/clabrugere/web-lazy-rebalance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=portfolio-balance)](https://github.com/clabrugere/portfolio-balance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=plant-pathology-classification)](https://github.com/clabrugere/plant-pathology-classification)
