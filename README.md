@@ -10,6 +10,7 @@ Data Scientist with 6 years of experience in data engineering, statistical analy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clabrugere&hide=jupyter%20notebook)](https://github.com/clabrugere/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=ctr-prediction)](https://github.com/clabrugere/ctr-prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=final-mlp)](https://github.com/clabrugere/final-mlp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=pytorch-scarf)](https://github.com/clabrugere/pytorch-scarf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=fastapi-fraud-detection)](https://github.com/clabrugere/fastapi-fraud-detection)
