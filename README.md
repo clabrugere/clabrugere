@@ -1,6 +1,6 @@
 # Clément Labrugere
 
-Data Scientist with 6 years of experience in data engineering, statistical analysis and machine learning, I thrive in applying cutting-edge tech to challenging business problems and build scalable data products leveraging state-of-the-art machine learning.
+Data Scientist with over 6 years of experience in data engineering, statistical analysis and machine learning, I thrive in applying cutting-edge tech to challenging business problems and build scalable data products leveraging state-of-the-art machine learning.
 
 # Social
 
