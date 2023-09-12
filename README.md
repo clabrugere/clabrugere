@@ -10,6 +10,7 @@ Data Scientist with over 6 years of experience in data engineering, statistical 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clabrugere&hide=jupyter%20notebook)](https://github.com/clabrugere/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=scratch-llm)](https://github.com/clabrugere/scratch-llm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=evidential-deeplearning)](https://github.com/clabrugere/evidential-deeplearning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=randomized-prior-net)](https://github.com/clabrugere/randomized-prior-net)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=multitask-learning)](https://github.com/clabrugere/multitask-learning)
