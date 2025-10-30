@@ -1,6 +1,6 @@
 # Clément Labrugere
 
-Data Scientist with over 6 years of experience in data engineering, statistical analysis and machine learning, I thrive in applying cutting-edge tech to challenging business problems and build scalable data products leveraging state-of-the-art machine learning.
+With 7+ years of experience in data science and data engineering, and having worked in oil & gas, retail, ad-tech and e-commerce, I build large-scale machine learning systems and data pipelines. Rust enjoyer.
 
 # Social
 
@@ -10,9 +10,13 @@ Data Scientist with over 6 years of experience in data engineering, statistical 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clabrugere&hide=jupyter%20notebook)](https://github.com/clabrugere/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=pytorch-scarf)](https://github.com/clabrugere/pytorch-scarf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=ssl-images)](https://github.com/clabrugere/ssl-images)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=rust-bandits)](https://github.com/clabrugere/rust-bandits)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=rust-hnsw)](https://github.com/clabrugere/rust-hnsw)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=scratch-llm)](https://github.com/clabrugere/scratch-llm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=wukong-recommendation)](https://github.com/clabrugere/wukong-recommendation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=ctr-prediction)](https://github.com/clabrugere/ctr-prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=ssl-images)](https://github.com/clabrugere/ssl-images)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=pytorch-scarf)](https://github.com/clabrugere/pytorch-scarf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=evidential-deeplearning)](https://github.com/clabrugere/evidential-deeplearning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=randomized-prior-net)](https://github.com/clabrugere/randomized-prior-net)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clabrugere&repo=multitask-learning)](https://github.com/clabrugere/multitask-learning)
